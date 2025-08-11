@@ -13,3 +13,10 @@ The dataset consists of:
 - `train.csv` – Training data with labels (`0` = Real News, `1` = Fake News)  
 - `test.csv` – Test data without labels  
 - `submit.csv` – Sample submission format
+
+**Columns in `train.csv`:**
+- `id` → Unique article ID  
+- `title` → Headline of the news article  
+- `author` → Author of the article  
+- `text` → Full news content  
+- `label` → Target variable (`0` = Real, `1` = Fake)
