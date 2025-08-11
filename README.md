@@ -31,3 +31,16 @@ The following models are trained and compared:
 4. **Random Forest**
 5. **Gradient Boosting**
 6. **XGBoost**
+
+
+## 📊 Results Example
+
+| Model               | Accuracy  | Precision | Recall   | F1 Score |
+|---------------------|-----------|-----------|----------|----------|
+| Logistic Regression | 0.979567  | 0.967259  | 0.992799 | 0.979863 |
+| Naive Bayes         | 0.954808  | 0.993747  | 0.915506 | 0.953023 |
+| Linear SVM          | 0.992788  | 0.993272  | 0.992319 | 0.992795 |
+| Random Forest       | 0.993269  | 0.990922  | 0.995679 | 0.993295 |
+| Gradient Boosting   | 0.964904  | 0.938037  | 0.995679 | 0.965999 |
+| XGBoost             | 0.987500  | 0.981508  | 0.993759 | 0.987595 |
+
