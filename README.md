@@ -20,3 +20,14 @@ The dataset consists of:
 - `author` → Author of the article  
 - `text` → Full news content  
 - `label` → Target variable (`0` = Real, `1` = Fake)
+
+
+## ⚙️ Models Implemented
+
+The following models are trained and compared:
+1. **Logistic Regression**
+2. **Naive Bayes**
+3. **Linear SVM**
+4. **Random Forest**
+5. **Gradient Boosting**
+6. **XGBoost**
